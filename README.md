@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Use any online resources necessary to complete these steps.
+Use any online resources necessary to complete these steps, but please do any searching in the same window being shared. You can add additional npm packages. Refactor and remove the existing code as needed. There is at least one bug in the existing code that will need to be fixed when moving to step two.
 
 ## Step One
 
